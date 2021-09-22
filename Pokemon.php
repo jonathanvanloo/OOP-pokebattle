@@ -1,6 +1,5 @@
 <?php
 
-
 class Pokemon
 {
     public static $pokemonPopulation;

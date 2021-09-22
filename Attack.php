@@ -10,13 +10,4 @@ class Attack {
         $this->attackName = $attackName;
         $this->damage = $damage;
     }
-
-    public function getAttackName() {
-        return $this->attackName;
-    }
-
-    public function getDamage() {
-        return $this->damage;
-    }
-
 }

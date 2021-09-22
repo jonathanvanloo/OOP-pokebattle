@@ -11,13 +11,4 @@ class Resistance {
         $this->value = $value;
 
     }
-
-    public function getType() {
-        return $this->type;
-    }
-
-    public function getValue() {
-        return $this->value;
-    }
-
 }
