@@ -7,8 +7,9 @@ $charmeleon = new Charmeleon('Charmeleon');
 print_r($charmeleon->getName());
 print_r($charmeleon->getHitPoints());
 echo '<br/>';
-
+echo "iets";
 print_r($pikachu->attack($charmeleon, 0));
+echo "iets";
 print_r($pikachu->attack[0]);
 echo '<br/>';
 

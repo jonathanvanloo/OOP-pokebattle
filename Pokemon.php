@@ -31,6 +31,7 @@ class Pokemon
     }
 
     /**
+     * als een attack uitgevoerd word check je ook de weakness en de resistance
      * @param $target
      * @param $attackNum
      */
@@ -43,6 +44,7 @@ class Pokemon
     }
 
     /**
+     * kijk welke invloed de weakness op de attack damage heeft
      * @param $attack
      * @param $targetEnergyType
      */
@@ -53,6 +55,7 @@ class Pokemon
     }
 
     /**
+     * kijk welke invloed de resistance op de attack damage heeft
      * @param $attack
      * @param $targetEnergyType
      */
